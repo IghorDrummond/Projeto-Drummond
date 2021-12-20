@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Blog</title>
+	</head>
+	<body>
+		<div id="geral">
+			<h1>Drummond Blog</h1>
+		<br />
+			<h3>Certificado do Fluig Express</h3>
+		</div>
+	</body>
+</html>	
+			
+				
