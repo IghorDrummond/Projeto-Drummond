@@ -1,0 +1,20 @@
+		#Geral{
+			background: gray;
+			width: 1152px;
+			height: 1100px;
+			margin: 10px auto;
+			} 
+		#botao{
+			color: black;
+			position: relative;
+			left: 530px;
+			text-decoration: none;
+			}
+		#botaobaixar{
+			color: black;
+			position: relative;
+			left:  530px;
+			margin: 10px;
+			text-decoration: none;	
+			}	
+	
