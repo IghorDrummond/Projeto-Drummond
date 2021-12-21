@@ -2,113 +2,131 @@
 				margin:  0;
 				padding: 0; 
 				 }
-			#geral{
+		#geral{
+				font-family: Heebo;
  				width: 1152px;
  				height: 1963px;
  				margin: auto;
- 				background: #FFFFF0;
- 				}
- 			body, head{
+				background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+ 				  }
+ 		body, head{
 
 				}		
- 			#degrade{
+ 		#degrade{
  				background: #9F9F9F;
  				width: 1152;
  				height: 20;
  				}	
- 			#topo{
+ 		#topo{
+ 				text-decoration: none;
  				width: 100%;
  				height: 50px;
  				float: top;
  				background: #F3F3F3;
  				}	
- 			#Formulario{
+ 		#Formulario{
+ 				text-decoration: none;
  				color: #7A7A7A;
  				float: right;
  				margin:  5px;
  				}
- 			#fluig{
+ 		#fluig{
+ 				text-decoration: none;
  				color: #7A7A7A;
  				float: right;
  				margin:  5px;
  				}
- 			#Blog{
+ 		#Blog{
+ 				text-decoration: none;
  				color: #7A7A7A;
  				float: right;
  				margin: 5px;
  				}	
- 			#home{
+ 		#home{
+ 				text-decoration: none;
  				color: #7A7A7A;
  				float: right;
  				margin: 5px;
  				}
- 			#Principal{
+ 		#Principal{
  				color: #21243D;
  				float: right;
  				width: 1152;
  				height: 288px;
  				margin: 10px auto;
+ 				clear: both;
  				}
- 				h1{
+ 		#Principal h1{
+ 				font: 44px heebo;
  				color: #21243D;
  				width: 506px;
  				height: 105px;
  				position: relative;
  				left: 80px;
- 				top: 20px;
+ 				bottom: 200px;
+ 				text-align: center;
  				}
- 				h4{
+ 		#Principal h4{
  				color: #21243D;
  				position: relative;
  				left: 80px;
+ 				bottom: 200px;
+ 				font: 16px heebo;
+ 				text-align: left;
  				}
- 			#imagem{
+ 		#Principal img{
+ 				position: relative;
+ 				left: 650px;
  				float: top;
  				}
- 			#curriculo{
+ 		#curriculo{
  				position:  relative;
  				top: 80px;
  				left: 1px;
  				color: #787878;
+ 				font: 20px heebo;
+ 				clear: both;
  				}
- 			#grafico{
- 				background: #F3F3F3;
- 				float: right;
+ 		#grafico{
+				float: right;
  				width:1152px;
  				height: 200px;
  				}
- 			#tabela{
+ 		#tabela{
  				color: #21243D;
  				position: relative;
  				left: 400px;
+ 				clear: both;
  		    	}	
- 			h2{
+ 		#grafico h2{
  				color: #21243D;
  				position: relative;
  				left: 500px;
- 			}
+ 			    }
  			
- 			th{
+ 		#grafico th{
  				color: #8695A4;
 
- 			  }
- 			#Sublinha{
+ 			    }
+ 		#Sublinha{
  				position: relative;
  				top: 180px;
- 			}  
- 			#recomendacoes{
+ 			    }  
+ 		#recomendacoes{
  				float: right;
  				color: black;
  				width:  ;
  				margin: ;
+ 				clear: both;
  				}
- 			#TrabalhoRe{
+ 		#TrabalhoRe{
  				color: #21243D;
  				position: relative;
  				bottom: 560px;
- 			}		
- 			#rodape{
+ 			    }		
+ 		#rodape{
  				color: black;
  				width: ;
  				margin: ;
+ 				clear: both;
  				}
