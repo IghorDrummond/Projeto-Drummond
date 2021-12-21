@@ -4,16 +4,25 @@
 			height: 1100px;
 			margin: 10px auto;
 			} 
+		#botoes{
+			float: center;
+			position: absolute;
+			}	
 		#botao{
 			color: black;
 			position: relative;
-			left: 530px;
+			left: 500px;
 			text-decoration: none;
 			}
+		#btn-nn{
+			float: center;
+			position: relative;
+			}	
 		#botaobaixar{
 			color: black;
 			position: relative;
-			left:  530px;
+			left:  580px;
+			bottom: 30.4px;
 			margin: 10px;
 			text-decoration: none;	
 			}	

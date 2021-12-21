@@ -91,10 +91,12 @@
 				float: right;
  				width:1152px;
  				height: 200px;
+ 				clear: both;
  				}
  		#tabela{
  				color: #21243D;
  				position: relative;
+ 				bottom: 80px;
  				left: 400px;
  				clear: both;
  		    	}	
@@ -111,14 +113,27 @@
  		#Sublinha{
  				position: relative;
  				top: 180px;
+ 				clear: both;
  			    }  
  		#recomendacoes{
  				float: right;
  				color: black;
- 				width:  ;
- 				margin: ;
- 				clear: both;
+ 				width:  100%;
+ 				padding: 10px;
  				}
+ 		#recomendacoes h3{
+ 				position: relative;
+ 				top: 1036;
+ 				left: 410px;
+ 				font: 30px heebo;
+
+ 				}
+ 		#selecao1{
+ 				position: relative;
+ 				left: 20px;
+ 				top: 800px;	
+ 				}				
+
  		#TrabalhoRe{
  				color: #21243D;
  				position: relative;
